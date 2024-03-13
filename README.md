@@ -1,7 +1,7 @@
 # Singleton-Test
 
 ## private static Singleton instance;
-Instancia unica e privada da classe
+Instância unica e privada da classe
 
 ## private Singleton() { }
 Construtor privado pra não ser instanciada diretamente fora da classe Singleton
